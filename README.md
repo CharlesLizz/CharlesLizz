@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Charles 👋
+
+💻 Learning C / Data Structures / Frontend  
+🤖 Interested in AI / LLM / AI Agents  
+🚀 Keep learning, keep building.
+
+### 📫 Contact
+
+Telegram: [@Charles_Lizz](https://t.me/Charles_Lizz)
+
+Nice to meet you!
+
 
 <!--
 **CharlesLizz/CharlesLizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
